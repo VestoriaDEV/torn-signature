@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/signature.js": {
+      "maxDuration": 15
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "torn-signature-banner",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.53",
+    "gifenc": "^1.0.3"
+  }
+}
